@@ -1,6 +1,6 @@
 # 🤖 ConsumerFi Automation Bot
 
-Bot ini dibuat untuk menjalankan otomatisasi **klaim reward**, **klaim harian (daily)**, dan **menjawab pertanyaan thumbs up/down** di platform [ConsumerFi](https://consumerfi.xyz) menggunakan token Bearer dari masing-masing akun.
+Bot ini dibuat untuk menjalankan otomatisasi **klaim reward**, **klaim harian (daily)**, dan **menjawab pertanyaan thumbs up/down** di platform [ConsumerFi](https://www.consumerfi.ai) menggunakan token Bearer dari masing-masing akun.
 
 ---
 
